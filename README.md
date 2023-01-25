@@ -1,1 +1,2 @@
-# Data-Augmentation
+# Data-Augmentation:
+Data augmentation is the process of artificially increasing the size of a dataset by applying various transformations to the existing data. This can be useful for improving the performance of machine learning models, particularly in cases where the amount of available data is limited. In Keras, a popular deep learning library built on top of TensorFlow, data augmentation can be easily implemented using the ImageDataGenerator class. This class allows you to apply a range of transformations, such as rotation, zoom, and flipping, to images in a dataset with just a few lines of code. Additionally, the class also allows you to normalize the pixel values of the images, which can help to improve model performance
